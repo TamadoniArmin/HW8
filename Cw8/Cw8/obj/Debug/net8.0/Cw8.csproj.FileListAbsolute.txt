@@ -1,0 +1,17 @@
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\Cw8.csproj.AssemblyReference.cache
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\Cw8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\Cw8.AssemblyInfoInputs.cache
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\Cw8.AssemblyInfo.cs
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\Cw8.csproj.CoreCompileInputs.cache
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\bin\Debug\net8.0\Cw8.exe
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\bin\Debug\net8.0\Cw8.deps.json
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\bin\Debug\net8.0\Cw8.runtimeconfig.json
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\bin\Debug\net8.0\Cw8.dll
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\bin\Debug\net8.0\Cw8.pdb
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\Cw8.csproj.CopyComplete
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\Cw8.dll
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\refint\Cw8.dll
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\Cw8.pdb
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\Cw8.genruntimeconfig.cache
+C:\Users\Tamadoni\OneDrive\Desktop\Cw8\Cw8\obj\Debug\net8.0\ref\Cw8.dll

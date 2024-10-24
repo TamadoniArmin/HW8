@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVv62x4z/AS+Tz3pHXFQvgzASQn6K6LAXV6ttzVJrPAjxyDFiIxnCf04k2O1qpDnE7Vom2ETszqzJlkdkO0V3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tamadoni\\OneDrive\\Desktop\\Cw8\\Cw8\\Cw8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tamadoni\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

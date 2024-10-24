@@ -1,0 +1,1 @@
+[{"$type":"Cw8.Entities.Product, Cw8","Id":1,"Name":"Laptop","Category":"Electronics","Price":60},{"$type":"Cw8.Entities.Product, Cw8","Id":2,"Name":"S24Ultra","Category":"Electronics","Price":40}]

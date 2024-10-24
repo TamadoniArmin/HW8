@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|c:\\users\\mr. x\\source\\repos\\cw8\\cw8\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|solutionrelative:cw8\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|c:\\users\\mr. x\\source\\repos\\cw8\\cw8\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|solutionrelative:cw8\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|c:\\users\\mr. x\\source\\repos\\cw8\\cw8\\repository\\productrepositoryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|solutionrelative:cw8\\repository\\productrepositoryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|c:\\users\\mr. x\\source\\repos\\cw8\\cw8\\inteface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|solutionrelative:cw8\\inteface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|c:\\users\\mr. x\\source\\repos\\cw8\\cw8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|solutionrelative:cw8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|c:\\users\\mr. x\\source\\repos\\cw8\\cw8\\initialdata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|solutionrelative:cw8\\initialdata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|c:\\users\\mr. x\\source\\repos\\cw8\\cw8\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|solutionrelative:cw8\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|c:\\users\\mr. x\\source\\repos\\cw8\\cw8\\inteface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964C2CB-F6B5-4D52-BA3B-DD35E09F33E0}|Cw8\\Cw8.csproj|solutionrelative:cw8\\inteface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\InitialData\\SeedData.cs",
+              "RelativeDocumentMoniker": "Cw8\\InitialData\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\InitialData\\SeedData.cs",
+              "RelativeToolTip": "Cw8\\InitialData\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:12:05.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductrepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Inteface\\IProductrepository.cs",
+              "RelativeDocumentMoniker": "Cw8\\Inteface\\IProductrepository.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Inteface\\IProductrepository.cs",
+              "RelativeToolTip": "Cw8\\Inteface\\IProductrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:51:50.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepositoryFile.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Repository\\ProductRepositoryFile.cs",
+              "RelativeDocumentMoniker": "Cw8\\Repository\\ProductRepositoryFile.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Repository\\ProductRepositoryFile.cs",
+              "RelativeToolTip": "Cw8\\Repository\\ProductRepositoryFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:50:41.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Entities\\Result.cs",
+              "RelativeDocumentMoniker": "Cw8\\Entities\\Result.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Entities\\Result.cs",
+              "RelativeToolTip": "Cw8\\Entities\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:47:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Inteface\\IProductService.cs",
+              "RelativeDocumentMoniker": "Cw8\\Inteface\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Inteface\\IProductService.cs",
+              "RelativeToolTip": "Cw8\\Inteface\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:46:38.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Cw8\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Service\\ProductService.cs",
+              "RelativeToolTip": "Cw8\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:45:44.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Cw8\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Entities\\Product.cs",
+              "RelativeToolTip": "Cw8\\Entities\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:34:41.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Program.cs",
+              "RelativeDocumentMoniker": "Cw8\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\Cw8\\Cw8\\Program.cs",
+              "RelativeToolTip": "Cw8\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:34:07.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
